@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+header {
+   text-align: center;
+}
+
+h1 {
+   font-size: 80px;
+   font-family: 'Playfair Display', serif;
+   color: green;
+}
+
+h2, h3 {
+   font-family: 'Lora', serif;
+}
+
+h2 {
+   color: rgb(111, 158, 1);
+}
+
+h4 {
+   font-size: 40px;  
+}
+
+p {
+   font-family: 'Poppins', sans-serif;
+}
+
+li {
+   font-size: 20px;
+}
+
+.over {
+   font-size: 40px;
+   color: green;
+}
+
+.zip {
+   width: 900px;
+   display: block;
+   margin: auto;
+   border-radius: 15px;
+   box-shadow: 5px 5px 15px rgb(8, 68, 0);
+   cursor: pointer;
+}
+
+img {
+   width: 500px;
+}
